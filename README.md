@@ -5,6 +5,5 @@ To run optimization problem, the following files with parameters are used:
 -	Alberta’s electricity market pool prices in 2021
 -	The system level parameters of LIBESS
 -	The cell-level parameters
-The link to the paper that uses this code will be updated later.
 ## Requirements:
 The code for both simulation and optimization models is written in the Julia programming environment. To run an optimization problem, a valid Gurobi license is required.
